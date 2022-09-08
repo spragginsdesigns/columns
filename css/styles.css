@@ -1,0 +1,16 @@
+/* Column CSS Properties */
+
+/* 
+column-count
+column-gap
+column-rule-style
+column-rule-width
+column-rule-color
+column-rule
+column-span
+column-width 
+*/
+
+.container-one {
+  column-count: 3;
+}
